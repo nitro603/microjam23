@@ -28,7 +28,7 @@
 #---------------------------------------------------------------------------------------------------------------------
 TARGET      :=  $(notdir $(CURDIR))
 BUILD       :=  build
-LIBBUTANO   :=  C:\Development\butano-15.9.0\butano
+LIBBUTANO   :=  C:\Development\butano-16.0.0\butano
 PYTHON      :=  python
 SOURCES     :=  src src/mj
 INCLUDES    :=  include include/mj
